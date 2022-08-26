@@ -1,8 +1,3 @@
-# Agora Node Token Server
-This is an example of a simple Node/Express server that generates tokens for Agora applications. 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 ### Run the server ###
 - Install the dependencies
 ```node
